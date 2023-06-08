@@ -1,0 +1,132 @@
+Signature: _setImplementation(address)
+Selector: 0xbb913f41
+
+Signature: admin()
+Selector: 0xf851a440
+
+Signature: implementation()
+Selector: 0x5c60da1b
+
+Signature: pendingAdmin()
+Selector: 0x26782247
+
+Signature: BALLOT_TYPEHASH()
+Selector: 0xdeaaa7cc
+
+Signature: DOMAIN_TYPEHASH()
+Selector: 0x20606b70
+
+Signature: MAX_PROPOSAL_THRESHOLD()
+Selector: 0x25fd935a
+
+Signature: MAX_VOTING_DELAY()
+Selector: 0xb1126263
+
+Signature: MAX_VOTING_PERIOD()
+Selector: 0xa64e024a
+
+Signature: MIN_PROPOSAL_THRESHOLD()
+Selector: 0x791f5d23
+
+Signature: MIN_VOTING_DELAY()
+Selector: 0xe48083fe
+
+Signature: MIN_VOTING_PERIOD()
+Selector: 0x215809ca
+
+Signature: _acceptAdmin()
+Selector: 0xe9c714f2
+
+Signature: _initiate(uint256)
+Selector: 0x501b6ad3
+
+Signature: _setPendingAdmin(address)
+Selector: 0xb71d1a0c
+
+Signature: _setProposalThreshold(uint256)
+Selector: 0x17ba1b8b
+
+Signature: _setVotingDelay(uint256)
+Selector: 0x1dfb1b5a
+
+Signature: _setVotingPeriod(uint256)
+Selector: 0x0ea2d98c
+
+Signature: admin()
+Selector: 0xf851a440
+
+Signature: cancel(uint256)
+Selector: 0x40e58ee5
+
+Signature: castVote(uint256,uint8)
+Selector: 0x56781388
+
+Signature: castVoteBySig(uint256,uint8,uint8,bytes32,bytes32)
+Selector: 0x3bccf4fd
+
+Signature: castVoteWithReason(uint256,uint8,string)
+Selector: 0x7b3c71d3
+
+Signature: execute(uint256)
+Selector: 0xfe0d94c1
+
+Signature: getActions(uint256)
+Selector: 0x328dd982
+
+Signature: getReceipt(uint256,address)
+Selector: 0xe23a9a52
+
+Signature: implementation()
+Selector: 0x5c60da1b
+
+Signature: initialProposalId()
+Selector: 0xfc4eee42
+
+Signature: initialize(address,address,uint256,uint256,uint256)
+Selector: 0xd13f90b4
+
+Signature: latestProposalIds(address)
+Selector: 0x17977c61
+
+Signature: name()
+Selector: 0x06fdde03
+
+Signature: pendingAdmin()
+Selector: 0x26782247
+
+Signature: proposalCount()
+Selector: 0xda35c664
+
+Signature: proposalMaxOperations()
+Selector: 0x7bdbe4d0
+
+Signature: proposalThreshold()
+Selector: 0xb58131b0
+
+Signature: proposals(uint256)
+Selector: 0x013cf08b
+
+Signature: propose(address[],uint256[],string[],bytes[],string)
+Selector: 0xda95691a
+
+Signature: queue(uint256)
+Selector: 0xddf0b009
+
+Signature: quorumVotes()
+Selector: 0x24bc1a64
+
+Signature: state(uint256)
+Selector: 0x3e4f49e6
+
+Signature: timelock()
+Selector: 0xd33219b4
+
+Signature: uni()
+Selector: 0xedc9af95
+
+Signature: votingDelay()
+Selector: 0x3932abb1
+
+Signature: votingPeriod()
+Selector: 0x02a251a3
+
