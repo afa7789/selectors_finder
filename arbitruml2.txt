@@ -1,0 +1,147 @@
+Signature: BALLOT_TYPEHASH()
+Selector: 0xdeaaa7cc
+
+Signature: COUNTING_MODE()
+Selector: 0xdd4e2ba5
+
+Signature: EXCLUDE_ADDRESS()
+Selector: 0x5e12ebbd
+
+Signature: EXTENDED_BALLOT_TYPEHASH()
+Selector: 0x2fe3e261
+
+Signature: castVote(uint256,uint8)
+Selector: 0x56781388
+
+Signature: castVoteBySig(uint256,uint8,uint8,bytes32,bytes32)
+Selector: 0x3bccf4fd
+
+Signature: castVoteWithReason(uint256,uint8,string)
+Selector: 0x7b3c71d3
+
+Signature: castVoteWithReasonAndParams(uint256,uint8,string,bytes)
+Selector: 0x5f398a14
+
+Signature: castVoteWithReasonAndParamsBySig(uint256,uint8,string,bytes,uint8,bytes32,bytes32)
+Selector: 0x03420181
+
+Signature: execute(address[],uint256[],bytes[],bytes32)
+Selector: 0x2656227d
+
+Signature: getPastCirculatingSupply(uint256)
+Selector: 0x6e462680
+
+Signature: getVotes(address,uint256)
+Selector: 0xeb9019d4
+
+Signature: getVotesWithParams(address,uint256,bytes)
+Selector: 0x9a802a6d
+
+Signature: hasVoted(uint256,address)
+Selector: 0x43859632
+
+Signature: hashProposal(address[],uint256[],bytes[],bytes32)
+Selector: 0xc59057e4
+
+Signature: initialize(address,address,address,uint256,uint256,uint256,uint256,uint64)
+Selector: 0x5b447a57
+
+Signature: lateQuorumVoteExtension()
+Selector: 0x32b8113e
+
+Signature: name()
+Selector: 0x06fdde03
+
+Signature: onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)
+Selector: 0xbc197c81
+
+Signature: onERC1155Received(address,address,uint256,uint256,bytes)
+Selector: 0xf23a6e61
+
+Signature: onERC721Received(address,address,uint256,bytes)
+Selector: 0x150b7a02
+
+Signature: owner()
+Selector: 0x8da5cb5b
+
+Signature: proposalDeadline(uint256)
+Selector: 0xc01f9e37
+
+Signature: proposalEta(uint256)
+Selector: 0xab58fb8e
+
+Signature: proposalSnapshot(uint256)
+Selector: 0x2d63f693
+
+Signature: proposalThreshold()
+Selector: 0xb58131b0
+
+Signature: proposalVotes(uint256)
+Selector: 0x544ffc9c
+
+Signature: propose(address[],uint256[],bytes[],string)
+Selector: 0x7d5e81e2
+
+Signature: queue(address[],uint256[],bytes[],bytes32)
+Selector: 0x160cbed7
+
+Signature: quorum(uint256)
+Selector: 0xf8ce560a
+
+Signature: quorumDenominator()
+Selector: 0x97c3d334
+
+Signature: quorumNumerator(uint256)
+Selector: 0x60c4247f
+
+Signature: quorumNumerator()
+Selector: 0xa7713a70
+
+Signature: relay(address,uint256,bytes)
+Selector: 0xc28bc2fa
+
+Signature: renounceOwnership()
+Selector: 0x715018a6
+
+Signature: setLateQuorumVoteExtension(uint64)
+Selector: 0xd07f91e9
+
+Signature: setProposalThreshold(uint256)
+Selector: 0xece40cc1
+
+Signature: setVotingDelay(uint256)
+Selector: 0x70b0f660
+
+Signature: setVotingPeriod(uint256)
+Selector: 0xea0217cf
+
+Signature: state(uint256)
+Selector: 0x3e4f49e6
+
+Signature: supportsInterface(bytes4)
+Selector: 0x01ffc9a7
+
+Signature: timelock()
+Selector: 0xd33219b4
+
+Signature: token()
+Selector: 0xfc0c546a
+
+Signature: transferOwnership(address)
+Selector: 0xf2fde38b
+
+Signature: updateQuorumNumerator(uint256)
+Selector: 0x06f3f9e6
+
+Signature: updateTimelock(address)
+Selector: 0xa890c910
+
+Signature: version()
+Selector: 0x54fd4d50
+
+Signature: votingDelay()
+Selector: 0x3932abb1
+
+Signature: votingPeriod()
+Selector: 0x02a251a3
+
